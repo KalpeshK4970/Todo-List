@@ -1,2 +1,3 @@
 # Todo-List
-n this project, I have created a To-Do List that helps the user create a list of things he/she wants to do throughout the day. The technologies employed in this project are HTML , CSS, and Vanilla JavaScript.
+In this project, I have created a To-Do List that helps the user create a list of things he/she wants to do throughout the day. The technologies employed in this project are HTML , CSS, and Vanilla JavaScript. The to-do list entries won't be refreshed even if the user refreshes the website since I
+utilised JavaScript techniques that make use oflocal storage.
